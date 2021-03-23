@@ -13,6 +13,7 @@ export default function Home() {
     <Link to="/contact/">Contact</Link>
     <h1>Hello Gatsby!</h1>
     <p>What a world.</p>
+    <p>What a word!</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
   </div>
   );
